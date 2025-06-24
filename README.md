@@ -6,6 +6,10 @@ This was a quick project thrown together at 4 in the morning (I couldn't sleep),
 I want to (in the future) build a plugin that can arbitrarily render any .obj files (ambitious, I know... one can dream.), figured that this would be a nice starting point to get into 3d graphics.
 
 
+## Quick Demo:
+https://github.com/user-attachments/assets/a8a3df80-4eef-43de-8726-645b7e83eaf2
+
+Full video coming at a later date.
 
 ## Design & Architecture
 
