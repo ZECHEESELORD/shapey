@@ -7,7 +7,9 @@ I want to (in the future) build a plugin that can arbitrarily render any .obj fi
 
 
 ## Quick Demo:
-https://github.com/user-attachments/assets/a8a3df80-4eef-43de-8726-645b7e83eaf2
+
+https://github.com/user-attachments/assets/d44a8e96-3519-4d48-8e28-2eef9f42aedd
+
 
 Full video coming at a later date.
 
