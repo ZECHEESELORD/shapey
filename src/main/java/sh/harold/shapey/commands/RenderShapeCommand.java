@@ -1,4 +1,4 @@
-package sh.harold.geometryTest.commands;
+package sh.harold.shapey.commands;
 
 import org.bukkit.Location;
 import org.bukkit.command.Command;
@@ -8,7 +8,7 @@ import org.bukkit.command.TabExecutor;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.util.Vector;
-import sh.harold.geometryTest.geometry.ShapeManager;
+import sh.harold.shapey.geometry.ShapeManager;
 
 import java.util.ArrayList;
 import java.util.Collections;

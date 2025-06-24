@@ -1,13 +1,13 @@
-package sh.harold.geometryTest;
+package sh.harold.shapey;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import sh.harold.geometryTest.commands.RenderShapeCommand;
-import sh.harold.geometryTest.commands.DeleteShapeCommand;
-import sh.harold.geometryTest.commands.SpinShapeCommand;
-import sh.harold.geometryTest.commands.TransformShapeCommand;
-import sh.harold.geometryTest.commands.ColourShapeCommand;
-import sh.harold.geometryTest.commands.ParticleShapeCommand;
-import sh.harold.geometryTest.geometry.ShapeManager;
+import sh.harold.shapey.commands.RenderShapeCommand;
+import sh.harold.shapey.commands.DeleteShapeCommand;
+import sh.harold.shapey.commands.SpinShapeCommand;
+import sh.harold.shapey.commands.TransformShapeCommand;
+import sh.harold.shapey.commands.ColourShapeCommand;
+import sh.harold.shapey.commands.ParticleShapeCommand;
+import sh.harold.shapey.geometry.ShapeManager;
 
 public final class GeometryTest extends JavaPlugin {
     @Override

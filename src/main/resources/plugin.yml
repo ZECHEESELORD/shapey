@@ -1,6 +1,6 @@
 name: GeometryTest
 version: 0.0.1
-main: sh.harold.geometryTest.GeometryTest
+main: sh.harold.shapey.GeometryTest
 api-version: 1.21
 commands:
   rendershape:

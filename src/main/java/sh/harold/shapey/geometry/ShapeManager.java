@@ -1,4 +1,4 @@
-package sh.harold.geometryTest.geometry;
+package sh.harold.shapey.geometry;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.util.Vector;

@@ -1,4 +1,4 @@
-package sh.harold.geometryTest.geometry;
+package sh.harold.shapey.geometry;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
@@ -78,7 +78,7 @@ public class ShapeInstance {
         List<Vector> out = new ArrayList<>(points.size());
         for (Vector v : points) {
             Vector scaled = v.clone().multiply(scale);
-            Vector rotated = sh.harold.geometryTest.utils.Transform3D.rotate(scaled, rotationVec.getY(), rotationVec.getX(), rotationVec.getZ());
+            Vector rotated = sh.harold.shapey.utils.Transform3D.rotate(scaled, rotationVec.getY(), rotationVec.getX(), rotationVec.getZ());
             Vector translated = rotated.clone().add(position);
             out.add(translated);
         }
