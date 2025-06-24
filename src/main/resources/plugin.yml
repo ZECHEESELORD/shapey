@@ -1,0 +1,22 @@
+name: GeometryTest
+version: 0.0.1
+main: sh.harold.geometryTest.GeometryTest
+api-version: 1.21
+commands:
+  rendershape:
+    description: Render a shape.
+    usage: /<command> <shape> <x> <y> <z> <scale> <rotation> <resolution>
+  deleteshape:
+    description: Delete a shape by ID.
+    usage: /<command> <id>
+  spinmyshape:
+    description: Spin a shape.
+    usage: /<command> <id> <yaw> <pitch> <roll>
+  transformtheshape:
+    description: Transform a shape.
+  colourmyshape:
+    description: Set shape colour or rainbow mode.
+  particleshapes:
+    description: Set the particle type for a shape.
+    usage: /<command> <id> <particle>
+
